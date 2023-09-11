@@ -8,7 +8,7 @@ Machine Learning pipeline composed of a [`Kalman Filter`](https://en.wikipedia.o
 
 <br>
 <p align="center">
-<img src="./Static/PATTERNS IN HYDRAULIC SYSTEM.png" alt="kf" width="600" height="400" />
+<img src="./Static/PATTERNS IN HYDRAULIC SYSTEM.png" alt="kf" width="800" height="600" />
 <br>
 <i>Different patters found in a hydraulic system</i>
 </p>
